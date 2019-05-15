@@ -33,7 +33,7 @@ namespace ELearningPlatforma
                 user.Email = "admin@pwais.com";
 
                 //Passwords must have at least one non letter or digit character. Passwords must have at least one uppercase
-                var userPassword = "P@$$w0rd";
+                var userPassword = "cet.123$";
 
                 var createUsr = userManager.Create(user, userPassword);
 
