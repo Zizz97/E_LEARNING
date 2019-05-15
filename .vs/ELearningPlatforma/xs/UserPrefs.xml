@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1E0188D8-2C80-4FC3-90BB-E642BC53D572}|">
+  <MonoDevelop.Ide.ItemProperties.ELearningPlatforma PreferredExecutionTarget="firefox" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ELearningPlatforma/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="ELearningPlatforma/Views/Home/Index.cshtml" Line="22" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ELearningPlatforma" expanded="True">
+            <Node name="ELearningPlatforma" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
